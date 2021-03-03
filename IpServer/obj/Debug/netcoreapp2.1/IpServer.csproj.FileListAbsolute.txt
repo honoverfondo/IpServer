@@ -33,3 +33,8 @@ C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\Ip
 C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\IpServer.genruntimeconfig.cache
 C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\IpServer.csproj.CopyComplete
 C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\IpServer.csprojAssemblyReference.cache
+C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\Razor\Views\Marcas\Create.cshtml.g.cs
+C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\Razor\Views\Marcas\Delete.cshtml.g.cs
+C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\Razor\Views\Marcas\Details.cshtml.g.cs
+C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\Razor\Views\Marcas\Edit.cshtml.g.cs
+C:\Users\Honover Fondo\source\repos\IpServer\IpServer\obj\Debug\netcoreapp2.1\Razor\Views\Marcas\Index.cshtml.g.cs

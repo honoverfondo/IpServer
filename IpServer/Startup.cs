@@ -37,7 +37,8 @@ namespace IpServer
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<IpServerContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("IpServerContext")));
+                    options.UseMySql(Configuration.GetConnectionString("IpServerContext"), builder =>
+                     builder.MigrationsAssembly("IpServer")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
