@@ -14,6 +14,7 @@ namespace IpServer.Data
         {
         }
 
-        public DbSet<IpServer.Models.Marca> Marca { get; set; }
+        public DbSet<Marca> Marca { get; set; }
+        public DbSet<Modelo> Modelo { get; set; }
     }
 }

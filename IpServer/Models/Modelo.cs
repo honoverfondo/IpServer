@@ -25,5 +25,7 @@ namespace IpServer.Models
             DataRegisto = dataRegisto;
             Marca = marca;
         }
+
+       
     }
 }

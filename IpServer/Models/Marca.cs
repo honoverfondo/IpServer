@@ -24,5 +24,15 @@ namespace IpServer.Models
             Descricao = descricao;
             DataRegisto = dataRegisto;
         }
+
+        public void AddMarca(Modelo m)
+        {
+            Modelos.Add(m);
+        }
+
+        public void RemoveMarca(Modelo m)
+        {
+            Modelos.Remove(m);
+        }
     }
 }
